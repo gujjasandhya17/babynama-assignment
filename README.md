@@ -2,7 +2,7 @@
 # Babynama Webinars Feature
 
 ## Live URL
-https://your-project-name.vercel.app
+https://babynama-assignment-eight.vercel.app/
 
 ## Choices Made
 I created a simple webinars page using Next.js App Router with mock data directly in the component. I added client-side interactivity by logging webinar IDs on button clicks to keep the UI lightweight and straightforward.
