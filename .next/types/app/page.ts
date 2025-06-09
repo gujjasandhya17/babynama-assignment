@@ -1,4 +1,4 @@
-// File: /home/am/gh/babynama-intern-assignment-template/app/page.tsx
+// File: C:\Users\sandh\babynama-assignment\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -9,6 +9,7 @@ export default function Home() {
           alt="Babynama Logo"
           width={150}
           height={35}
+          style={{ width: 'auto', height: 'auto' }}
           priority
           className="mx-auto mb-8"
         />
